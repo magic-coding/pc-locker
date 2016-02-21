@@ -1,0 +1,11 @@
+# -*- coding: UTF-8 -*-
+
+
+#Add your admin email to control this program.
+admin_email = "xxxx@xxx.com"
+
+#add gmail account for program use.
+program_email = "xxx@gmail.com"
+
+#add gmail account password
+email_password = "xxxxxxxxxx"
