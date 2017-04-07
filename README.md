@@ -1,5 +1,5 @@
 # <img src="https://ee5817f8e2e9a2e34042-3365e7f0719651e5b8d0979bce83c558.ssl.cf5.rackcdn.com/python.png" width="48">pc-locker
-Pc Locker program allow you to lock your laptop/pc using your email address by sending command.
+Pc Locker program allow you to lock your laptop/pc using your email address.
 
 
 **Program Requirements:**
@@ -14,14 +14,14 @@ Pc Locker program allow you to lock your laptop/pc using your email address by s
 2. Edit config.txt file.
 3. Add your admin email and gmail account for program use & save the file.
 4. Run the program by double click in bot.py file.
-5. Program window open. Now send `/lock` command from your admin email to gmail account that you add it in the program.(it's not important which email subject you may use)
+5. Program window open. Now send `/lock` command from your admin email to gmail account that linked to the program.(it's not important which email subject you may use)
 6. Your pc/laptop will lock & you will receive email from your program gmail account.
 
 
 **Security:**
 
 For security we code this program to receive `/lock` command from Admin Email otherwise programe will pass any action.
-Alos program will pass any other emails that not count (/lock) command.
+a lso the program will pass any other emails that not count (/lock) command.
 
 **Have an idea for make this more save and powerfull?**
 
